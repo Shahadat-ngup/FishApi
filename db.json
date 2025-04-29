@@ -3,21 +3,38 @@
       {
         "id": 1,
         "title": "Betta Fish",
-        "body": "Betta fish are known for their bright colors and long, flowing fins.",
         "imageUrl": "https://www.fishkeepingworld.com/wp-content/uploads/2020/04/Betta-Fish.jpg"
       },
       {
         "id": 2,
         "title": "Goldfish",
-        "body": "Goldfish are one of the most popular aquarium fish.",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Goldfish3.jpg"
       },
       {
         "id": 3,
         "title": "Guppy",
-        "body": "Guppies are small, colorful freshwater fish that are easy to care for.",
         "imageUrl": "https://www.thesprucepets.com/thmb/gdYYU-w8tVeECmg3ZkIS3DQdBzI=/2121x1414/filters:fill(auto,1)/GettyImages-1189175381-d6b9354243e342339a6a6898e4f1a4a9.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Clownfish",
+        "imageUrl": "https://www.fishkeepingworld.com/wp-content/uploads/2020/03/Clownfish.jpg"
       }
-    ]
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "Beautiful fish!",
+        "fishId": 1
+      },
+      {
+        "id": 2,
+        "body": "Great for beginners.",
+        "fishId": 2
+      }
+    ],
+    "profile": {
+      "name": "Shahadat"
+    }
   }
   
